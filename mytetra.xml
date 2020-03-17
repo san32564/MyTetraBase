@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="15840935995ynxbsxb1i" name="GIT">
+   <recordtable>
+    <record id="1584093790axappsb0w0" name="Первая настройка после установки" author="" url="" tags="" ctime="20200313130310" dir="1584093790len9t8kko8" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
